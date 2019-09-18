@@ -1,0 +1,8 @@
+First You Need To Make A database Named 'poo'
+Then Create a table named 'oo'
+You must have the table contents named 'rn' ,'st', 'fn', 'sd', 'ac'
+rn must be a primary key without auto_increment with data type of 'varchar'
+'st', 'fn', 'sd', 'ac' must have data type 'varchar'
+You need to copy all the files in C:\xampp\htdocs in poo folder
+Then start xampp with mysql and apache
+Enjoy ;)
